@@ -24,7 +24,7 @@
     "author": "Charlie kirkland",
     "windowWidth": 768,
     "windowHeight": 432,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\vasip\\Downloads\\game",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -4436,6 +4436,20 @@
         "name": "death36.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/05 - escape from the planet of the lobsters.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "83063124bd0d83044cc1326197d3a8ec89c6012e8c604aaf821f0345c1aaf800_05 - escape from the planet of the lobsters.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/83063124bd0d83044cc1326197d3a8ec89c6012e8c604aaf821f0345c1aaf800_05 - escape from the planet of the lobsters.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ]
   },
@@ -22577,7 +22591,7 @@
               },
               "parameters": [
                 "",
-                "\"get 2 gem\""
+                "\"Intro 2 gam2\""
               ]
             }
           ]
@@ -23287,7 +23301,7 @@
               },
               "parameters": [
                 "",
-                "\"Minigame 2\""
+                "\"Minigame2\""
               ]
             }
           ]
@@ -23312,7 +23326,7 @@
               },
               "parameters": [
                 "",
-                "\"Minigame 2\""
+                "\"Minigame2\""
               ]
             }
           ]
@@ -24134,7 +24148,6 @@
         {
           "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
           "name": "TransparentButtonWithWhiteBlueBorder",
-          "persistentUuid": "fbd68c47-0dff-49c7-ae13-1c014bbe5710",
           "type": "PanelSpriteButton::PanelSpriteButton",
           "variant": "Transparent Button With White Blue Border3",
           "variables": [],
@@ -24147,7 +24160,7 @@
             "BottomPadding": 6,
             "TopPadding": 0,
             "HoveredFadeOutDuration": 0,
-            "LabelText": "Quit"
+            "LabelText": "Quit to menu"
           }
         }
       ],
@@ -24192,6 +24205,15 @@
               },
               "parameters": [
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"MainMenu\""
               ]
             }
           ]
@@ -25243,14 +25265,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 120,
+          "height": 97,
           "keepRatio": true,
           "layer": "",
           "name": "WallCollision",
           "persistentUuid": "5677c5b6-b08f-40a5-90e9-7f5b3a4951a5",
           "width": 890,
           "x": -50,
-          "y": 423,
+          "y": 446,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -25301,6 +25323,23 @@
           "x": 600,
           "y": 50,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 488,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vignette",
+          "persistentUuid": "c7caa741-d929-4dd3-ab5e-9c1c4927412d",
+          "width": 775,
+          "x": -2,
+          "y": -4,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -32432,6 +32471,33 @@
               "parameters": [
                 "",
                 "\"get 3 gem\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "83063124bd0d83044cc1326197d3a8ec89c6012e8c604aaf821f0345c1aaf800_05 - escape from the planet of the lobsters.aac",
+                "",
+                "40",
+                ""
               ]
             }
           ]
