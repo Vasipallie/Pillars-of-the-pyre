@@ -3422,6 +3422,238 @@
         "name": "Gun1",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "death_Down.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "death_Down.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death19",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death20",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death21",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death22",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death23",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death24",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death25",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death26",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death27",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/death28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "death28",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -14264,7 +14496,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Movement",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -15324,7 +15555,13 @@
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "alive",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -15336,8 +15573,8 @@
           "name": "NewTileMap",
           "persistentUuid": "8c4702ac-bc7d-4aad-9486-b80b402466d3",
           "width": 927,
-          "x": -152,
-          "y": -73,
+          "x": -91,
+          "y": -56,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [
@@ -15357,8 +15594,8 @@
           "name": "Door_1",
           "persistentUuid": "2a2b05fd-c285-4aaf-866d-6c9342add418",
           "width": 0,
-          "x": 52,
-          "y": 92,
+          "x": 110,
+          "y": 107,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -15373,8 +15610,8 @@
           "name": "Door_2",
           "persistentUuid": "5b9401e7-60e2-4ae1-a432-06fac6bbe050",
           "width": 0,
-          "x": 204,
-          "y": 92,
+          "x": 267,
+          "y": 107,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -15389,8 +15626,8 @@
           "name": "Door_3",
           "persistentUuid": "4f780370-279d-4b40-83ac-67e75a943f68",
           "width": 0,
-          "x": 356,
-          "y": 92,
+          "x": 416,
+          "y": 107,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -15405,8 +15642,8 @@
           "name": "Door_4",
           "persistentUuid": "cdaf7738-66a4-4f08-9b88-2fac61c83f56",
           "width": 0,
-          "x": 511,
-          "y": 92,
+          "x": 570,
+          "y": 110,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -15422,9 +15659,94 @@
           "name": "NewSprite",
           "persistentUuid": "c497490b-069e-44fb-9d9f-41279d670d41",
           "width": 40,
-          "x": 405,
-          "y": 260,
+          "x": 403,
+          "y": 261,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DoorText",
+          "persistentUuid": "40ab40b1-c4c5-4d02-b9c6-5e6f972d9cb9",
+          "width": 753,
+          "x": 17,
+          "y": 370,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 212,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WallCollision",
+          "persistentUuid": "6400db53-07f7-4d47-a03e-fba06a6c5cd6",
+          "width": 945,
+          "x": -96,
+          "y": -57,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 354,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WallCollision",
+          "persistentUuid": "eebed20a-b755-4341-bc7c-31b68d5c6109",
+          "width": 120,
+          "x": 725,
+          "y": 129,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 76,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WallCollision",
+          "persistentUuid": "2f310bde-6dc2-48e1-a2a0-db39e62b29d0",
+          "width": 993,
+          "x": -139,
+          "y": 417,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 377,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WallCollision",
+          "persistentUuid": "62aadf30-69a2-4c79-95aa-0630dedb847a",
+          "width": 101,
+          "x": -101,
+          "y": 119,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15454,9 +15776,9 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "Variable",
-              "type": "number",
-              "value": 0
+              "name": "isCorrect",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -15521,9 +15843,9 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "Variable",
-              "type": "number",
-              "value": 0
+              "name": "isCorrect",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -15588,9 +15910,9 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "Variable",
-              "type": "number",
-              "value": 0
+              "name": "isCorrect",
+              "type": "boolean",
+              "value": true
             }
           ],
           "effects": [],
@@ -15655,9 +15977,9 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "Variable",
-              "type": "number",
-              "value": 0
+              "name": "isCorrect",
+              "type": "boolean",
+              "value": false
             }
           ],
           "effects": [],
@@ -15724,9 +16046,9 @@
           "effects": [],
           "behaviors": [
             {
-              "ignoreDefaultControls": true,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "ignoreDefaultControls": true,
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -17847,6 +18169,823 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "death",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death25",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death26",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death27",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "death28",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 23
+                          },
+                          {
+                            "x": 0,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DoorText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Welcome, listen to what the doors have to say and choose the right door. \nRemember one door tells the truth. Choose Wisely",
+          "font": "Kenney Mini Square.ttf",
+          "textAlignment": "center",
+          "characterSize": 19,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Welcome, listen to what the doors have to say and choose the right door. \nRemember one door tells the truth. Choose Wisely",
+            "font": "Kenney Mini Square.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 19,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "WallCollision",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Collision Masks.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -17871,6 +19010,12 @@
           },
           {
             "objectName": "NewSprite"
+          },
+          {
+            "objectName": "DoorText"
+          },
+          {
+            "objectName": "WallCollision"
           }
         ]
       },
@@ -17887,6 +19032,16 @@
                 "TopDownMovement",
                 ">",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
               ]
             },
             {
@@ -17931,6 +19086,16 @@
             },
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "TopDownMovementBehavior::XVelocity"
               },
               "parameters": [
@@ -17967,6 +19132,16 @@
                 "TopDownMovement",
                 "<",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
               ]
             },
             {
@@ -18011,6 +19186,16 @@
             },
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "TopDownMovementBehavior::YVelocity"
               },
               "parameters": [
@@ -18047,6 +19232,16 @@
                 "TopDownMovement",
                 "<",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
               ]
             },
             {
@@ -18099,6 +19294,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -18138,6 +19343,16 @@
                 "TopDownMovement",
                 "<",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
               ]
             }
           ],
@@ -18179,6 +19394,16 @@
                 ">",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -18218,6 +19443,16 @@
                 "TopDownMovement",
                 "=",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
               ]
             }
           ],
@@ -18346,6 +19581,109 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"e\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"The correct path is NOT the second choice.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"f\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Oh no... You chose the wrong door and you fall to your doom.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "alive",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "NewSprite",
+                    "Animation",
+                    "=",
+                    "\"death\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClearForces"
+                  },
+                  "parameters": [
+                    "NewSprite"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Game Over\"",
+                    ""
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -18398,6 +19736,109 @@
               "parameters": [
                 "Door_2",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"e\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"I am lying. The correct path is not me.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"f\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Oh no... You chose the wrong door and you fall to your doom.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "alive",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClearForces"
+                  },
+                  "parameters": [
+                    "NewSprite"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "NewSprite",
+                    "Animation",
+                    "=",
+                    "\"death\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Game Over\"",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -18454,6 +19895,109 @@
                 ""
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"e\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Only one of us speaks the truth.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"f\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Oh no... You chose the wrong door and you fall to your doom.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "alive",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ClearForces"
+                  },
+                  "parameters": [
+                    "NewSprite"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "NewSprite",
+                    "Animation",
+                    "=",
+                    "\"death\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Game Over\"",
+                    ""
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -18506,6 +20050,78 @@
               "parameters": [
                 "Door_4",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"e\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Choice B is lying, and I am also not safe.\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"f\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClearForces"
+                  },
+                  "parameters": [
+                    "NewSprite"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "DoorText",
+                    "Text",
+                    "=",
+                    "\"Lets goo, you chose the right door. You may go through now.\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "5"
+                  ]
+                }
               ]
             }
           ]
@@ -18584,6 +20200,16 @@
           "conditions": [
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "KeyFromTextPressed"
               },
               "parameters": [
@@ -18608,6 +20234,16 @@
           "aiGeneratedEventId": "01KJKV4X1G4FYHBGSRKE3CJV9P",
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "KeyFromTextPressed"
@@ -18637,6 +20273,16 @@
           "conditions": [
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "KeyFromTextPressed"
               },
               "parameters": [
@@ -18663,6 +20309,16 @@
           "conditions": [
             {
               "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "alive",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "KeyFromTextPressed"
               },
               "parameters": [
@@ -18680,6 +20336,64 @@
                 "NewSprite",
                 "TopDownMovement",
                 "\"Right\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "NewSprite",
+                "WallCollision",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "WallCollision"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "15"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DoorText",
+                "Text",
+                "=",
+                "\"Press E to interact with doors and F to choose the door\""
               ]
             }
           ]
@@ -18780,6 +20494,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
