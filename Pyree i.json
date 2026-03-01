@@ -6223,7 +6223,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 4.41855940585545,
+        "zoomFactor": 2.871051280997045,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -9554,13 +9554,13 @@
             {
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "ignoreDefaultControls": true,
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
               "deceleration": 800,
-              "ignoreDefaultControls": false,
               "maxSpeed": 200,
               "movementAngleOffset": 0,
               "rotateObject": false,
@@ -15002,6 +15002,114 @@
             }
           ],
           "actions": []
+        },
+        {
+          "aiGeneratedEventId": "01KJKTPAJA5A28JZE9JEMXVK0S",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"w\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "\"Up\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKTPAJA5A28JZE9JEMXVK0S",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"s\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "\"Down\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKTPAJA5A28JZE9JEMXVK0S",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "\"Left\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKTPAJA5A28JZE9JEMXVK0S",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"d\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "Player",
+                "TopDownMovement",
+                "\"Right\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15616,6 +15724,7 @@
           "effects": [],
           "behaviors": [
             {
+              "ignoreDefaultControls": true,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
@@ -15624,7 +15733,6 @@
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
               "deceleration": 800,
-              "ignoreDefaultControls": false,
               "maxSpeed": 200,
               "movementAngleOffset": 0,
               "rotateObject": false,
@@ -18469,6 +18577,112 @@
             }
           ],
           "actions": []
+        },
+        {
+          "aiGeneratedEventId": "01KJKV4Q7T2N696G2H5Z316757",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"w\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateUpKey"
+              },
+              "parameters": [
+                "NewSprite",
+                "TopDownMovement"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKV4X1G4FYHBGSRKE3CJV9P",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "NewSprite",
+                "TopDownMovement",
+                "\"Left\""
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKV54XEVR94X08S4N8NVKT0",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"s\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateDownKey"
+              },
+              "parameters": [
+                "NewSprite",
+                "TopDownMovement"
+              ]
+            }
+          ]
+        },
+        {
+          "aiGeneratedEventId": "01KJKV5BTM0W5F3QFKXD1V6HNY",
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"d\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TopDownMovementBehavior::SimulateControl"
+              },
+              "parameters": [
+                "NewSprite",
+                "TopDownMovement",
+                "\"Right\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
