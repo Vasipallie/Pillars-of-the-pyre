@@ -19,7 +19,7 @@
     "sizeOnStartupMode": "scaleOuter",
     "templateSlug": "wave-defense-shooter",
     "version": "1.0.0",
-    "name": "project",
+    "name": "Pyree",
     "description": "A humble game made on the primary theme of beneath the surface which is a very beautiful theme, this is kinda inspired",
     "author": "Charlie kirkland",
     "windowWidth": 768,
@@ -3403,6 +3403,16 @@
         "metadata": "",
         "name": "demon_cleave_16.png",
         "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "tts-audio.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "tts-audio.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": false
       }
     ]
@@ -12284,6 +12294,16 @@
           "actions": [
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "Wave",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
                 "value": "Show"
               },
               "parameters": [
@@ -12293,10 +12313,22 @@
             },
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "tts-audio.mp3",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
-                "10"
+                "5"
               ]
             },
             {
